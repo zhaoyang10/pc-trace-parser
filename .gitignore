@@ -12,5 +12,4 @@ session.log
 core*.log
 abc_uart1_core*.log
 
-# Scripts
-analyze_jumps.py
+
