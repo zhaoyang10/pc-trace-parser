@@ -9,4 +9,8 @@ core1_func_trace.txt
 
 # Logs
 session.log
-core1.log
+core*.log
+abc_uart1_core*.log
+
+# Scripts
+analyze_jumps.py
