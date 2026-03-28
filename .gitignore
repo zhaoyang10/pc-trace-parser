@@ -1,0 +1,11 @@
+# Input files
+pc.txt
+0325.txt
+prompt.txt
+
+# Output files
+core0_func_trace.txt
+core1_func_trace.txt
+
+# Logs
+session.log
